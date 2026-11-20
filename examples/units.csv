@@ -1,0 +1,11 @@
+unit_id,location,filter_size,qty,interval_hours,run_hours_per_week,last_changed
+AHU-01,Roof,24x24x4,6,2000,120,2026-08-01
+AHU-02,Roof,24x24x4,6,2000,120,2026-03-02
+AHU-03,Penthouse,20x25x2,4,1500,168,2026-10-01
+RTU-01,Roof East,20x20x2,2,1000,60,2026-09-01
+RTU-02,Roof East,20x20x2,2,1000,60,2026-02-10
+FCU-101,Level 1,16x20x1,1,800,45,2026-08-15
+FCU-102,Level 1,16x20x1,1,800,45,2026-10-12
+FCU-201,Level 2,16x20x1,1,800,45,2026-05-05
+MAU-01,Loading Dock,24x24x2,3,1800,100,2026-09-28
+SRV-AC1,Server Room,12x24x2,2,2500,168,2026-10-30

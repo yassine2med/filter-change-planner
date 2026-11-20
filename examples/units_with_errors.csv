@@ -1,0 +1,7 @@
+unit_id,location,filter_size,qty,interval_hours,run_hours_per_week,last_changed
+AHU-01,Roof,24x24x4,6,2000,120,2026-06-15
+AHU-01,Roof,24x24x4,6,2000,120,2026-06-15
+RTU-01,Roof East,20x20x2,two,1000,60,2026-09-01
+FCU-101,Level 1,16x20x1,1,800,0,2026-07-01
+FCU-102,Level 1,16x20x1,1,800,45,12/10/2026
+,Level 2,16x20x1,1,800,45,2026-05-05
