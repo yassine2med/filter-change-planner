@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="filter-change-planner" width="100%"></p>
+
 # filter-change-planner
 
 Air filters wear out with run hours, not with the calendar. A unit that runs around the clock needs new filters sooner than one that runs 40 hours a week. This tool reads a list of air handlers with their filter interval and weekly run hours, and tells you which are overdue, which are due soon and what to buy.
