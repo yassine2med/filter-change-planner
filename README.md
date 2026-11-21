@@ -2,6 +2,8 @@
 
 # filter-change-planner
 
+[![CI](https://github.com/yassine2med/filter-change-planner/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/filter-change-planner/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Air filters wear out with run hours, not with the calendar. A unit that runs around the clock needs new filters sooner than one that runs 40 hours a week. This tool reads a list of air handlers with their filter interval and weekly run hours, and tells you which are overdue, which are due soon and what to buy.
 
 ![Screenshot](docs/screenshot.png)
